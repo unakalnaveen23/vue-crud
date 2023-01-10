@@ -120,5 +120,6 @@ input {
   font-size: 50px;
   text-align: center;
   margin-top: 50px;
+  text-decoration-line: underline;
 }
 </style>
