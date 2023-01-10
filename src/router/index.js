@@ -1,16 +1,16 @@
 import { createRouter, createWebHistory } from 'vue-router'
-//import main from "../pages/main.vue"
+import main from "../pages/main.vue"
 import admin from "../pages/admin/admin.vue"
 import employee from "../pages/admin/employee.vue"
 import employeecreate from "../pages/admin/employeecreate.vue"
 import employeeedit from "../pages/admin/employeeedit.vue"
 
 const routes = [
-  // {
-  //   path: '/',
-  //   name: 'main',
-  //   component: main
-  // },
+  {
+    path: '/',
+    name: 'main',
+    component: main
+  },
   {
     path: '/admin',
     name: 'admin',
