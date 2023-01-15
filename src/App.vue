@@ -119,7 +119,8 @@ input {
 .welcome {
   font-size: 50px;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   text-decoration-line: underline;
 }
 </style>

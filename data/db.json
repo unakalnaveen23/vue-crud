@@ -1,32 +1,11 @@
 {
   "employee": [
     {
-      "Emp_Name": "Somashekar",
-      "Emp_LastName": "Bandari",
-      "Emp_phoneno": "8970569402",
-      "Emp_Desigination": "Software Developer",
-      "id": 1
-    },
-    {
-      "Emp_Name": "Shrisha",
-      "Emp_LastName": "Joshi",
-      "Emp_phoneno": "7829366602",
-      "Emp_Desigination": "Application System Engineer",
-      "id": 2
-    },
-    {
       "Emp_Name": "Naveen",
       "Emp_LastName": "Unakal",
       "Emp_phoneno": "7019281976",
       "Emp_Desigination": "Software Development Engineer",
       "id": 3
-    },
-    {
-      "Emp_Name": "Rohan",
-      "Emp_LastName": "Udagatti",
-      "Emp_phoneno": "9108564930",
-      "Emp_Desigination": "Digital Engineer",
-      "id": 4
     }
   ]
 }
